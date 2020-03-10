@@ -1,6 +1,6 @@
 Reproducible Research: Peer Assessment 2
 ==========================================
-krisna acharya
+Junxuan Liu
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
